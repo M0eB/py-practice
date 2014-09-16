@@ -34,3 +34,12 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+python-the-hard-way/.idea/.name
+python-the-hard-way/.idea/encodings.xml
+python-the-hard-way/.idea/misc.xml
+python-the-hard-way/.idea/modules.xml
+python-the-hard-way/.idea/python-the-hard-way.iml
+python-the-hard-way/.idea/scopes/scope_settings.xml
+python-the-hard-way/.idea/vcs.xml
+python-the-hard-way/.idea/workspace.xml
