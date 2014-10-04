@@ -2,7 +2,7 @@
 #          By : Mohamed T. Ismail
 #        Book : Learn Python The Hard Way 
 #      Author : Zed Shaw
-#  Decription : Ex18 - Functions and Variables
+#  Decription : Ex19 - Functions and Variables
 # =============================================================================
 
 
