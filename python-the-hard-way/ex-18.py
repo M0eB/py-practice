@@ -8,7 +8,7 @@
 
 # This one is like your scripts with argv
 def print_two( *args ):
-	arg1, arg2 = args
+	arg1, arg2 = args  #unpack arguments
 	print "arg1: %r, arg2: %r" % (arg1, arg2)
 
 # Ok, that *args i actually pointless, we can do this
